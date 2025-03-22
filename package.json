@@ -8,6 +8,8 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0",
     "@testing-library/user-event": "^13.5.0",
+    "downloadjs": "^1.4.7",
+    "html-to-image": "^1.11.13",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "^3.0.1",
@@ -38,7 +40,11 @@
     ]
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^9.8.8",
     "gh-pages": "^6.3.0",
+    "postcss": "^7.0.39",
+    "tailwindcss": "^1.9.6",
     "vite": "^6.2.2"
   }
 }
